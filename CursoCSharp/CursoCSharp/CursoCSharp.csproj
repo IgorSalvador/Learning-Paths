@@ -44,7 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralExercicios.cs" />
+    <Compile Include="ClassesEMetodos\GetSet.cs" />
     <Compile Include="ClassesEMetodos\Parametros.cs" />
+    <Compile Include="ClassesEMetodos\Propriedades.cs" />
+    <Compile Include="ClassesEMetodos\Struct.cs" />
+    <Compile Include="ClassesEMetodos\StructVsClasse.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
