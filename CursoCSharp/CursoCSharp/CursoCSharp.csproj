@@ -49,6 +49,9 @@
     <Compile Include="ClassesEMetodos\Propriedades.cs" />
     <Compile Include="ClassesEMetodos\Struct.cs" />
     <Compile Include="ClassesEMetodos\StructVsClasse.cs" />
+    <Compile Include="Colecoes\ColecoesArrayList.cs" />
+    <Compile Include="Colecoes\ColecoesQueue.cs" />
+    <Compile Include="Colecoes\ColecoesSet.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

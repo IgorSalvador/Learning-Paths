@@ -1,4 +1,5 @@
 ﻿using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.Colecoes;
 using CursoCSharp.CursoCSharp;
 using CursoCSharp.Fundamentos;
 using System;
@@ -17,7 +18,10 @@ namespace CursoCSharp
                 { "Get / Set - Classes e Metodos", GetSet.Executar },
                 { "Propriedades - Classes e Metodos", Propriedades.Executar },
                 { "Struct - Classes e Metodos", Struct.Executar },
-                { "Struct Vs Classe - Classes e Metodos", StructVsClasse.Executar }
+                { "Struct Vs Classe - Classes e Metodos", StructVsClasse.Executar },
+                { "Array List - Coleções", ColecoesArrayList.Executar },
+                { "Set List - Coleções", ColecoesSet.Executar },
+                { "Queue - Coleções", ColecoesQueue.Executar }
             });
             
             central.SelecionarEExecutar();
