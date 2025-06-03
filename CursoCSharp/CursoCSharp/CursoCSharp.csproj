@@ -53,6 +53,7 @@
     <Compile Include="Colecoes\ColecoesQueue.cs" />
     <Compile Include="Colecoes\ColecoesSet.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
+    <Compile Include="OO\Herenca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -2,6 +2,7 @@
 using CursoCSharp.Colecoes;
 using CursoCSharp.CursoCSharp;
 using CursoCSharp.Fundamentos;
+using CursoCSharp.OO;
 using System;
 using System.Collections.Generic;
 
@@ -21,7 +22,8 @@ namespace CursoCSharp
                 { "Struct Vs Classe - Classes e Metodos", StructVsClasse.Executar },
                 { "Array List - Coleções", ColecoesArrayList.Executar },
                 { "Set List - Coleções", ColecoesSet.Executar },
-                { "Queue - Coleções", ColecoesQueue.Executar }
+                { "Queue - Coleções", ColecoesQueue.Executar },
+                { "Herança - Programação Orientada a Objetos", Herenca.Executar }
             });
             
             central.SelecionarEExecutar();
